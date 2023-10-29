@@ -1,0 +1,16 @@
+C:\Users\rmrod\Desktop\Raul Martins Rodrigues  RA 04722-030\ProvaRaulMartinsRodrigues\ProvaRaulMartinsRodrigues\bin\Debug\net7.0-windows\ProvaRaulMartinsRodrigues.exe
+C:\Users\rmrod\Desktop\Raul Martins Rodrigues  RA 04722-030\ProvaRaulMartinsRodrigues\ProvaRaulMartinsRodrigues\bin\Debug\net7.0-windows\ProvaRaulMartinsRodrigues.deps.json
+C:\Users\rmrod\Desktop\Raul Martins Rodrigues  RA 04722-030\ProvaRaulMartinsRodrigues\ProvaRaulMartinsRodrigues\bin\Debug\net7.0-windows\ProvaRaulMartinsRodrigues.runtimeconfig.json
+C:\Users\rmrod\Desktop\Raul Martins Rodrigues  RA 04722-030\ProvaRaulMartinsRodrigues\ProvaRaulMartinsRodrigues\bin\Debug\net7.0-windows\ProvaRaulMartinsRodrigues.dll
+C:\Users\rmrod\Desktop\Raul Martins Rodrigues  RA 04722-030\ProvaRaulMartinsRodrigues\ProvaRaulMartinsRodrigues\bin\Debug\net7.0-windows\ProvaRaulMartinsRodrigues.pdb
+C:\Users\rmrod\Desktop\Raul Martins Rodrigues  RA 04722-030\ProvaRaulMartinsRodrigues\ProvaRaulMartinsRodrigues\obj\Debug\net7.0-windows\ProvaRaulMartinsRodrigues.Form1.resources
+C:\Users\rmrod\Desktop\Raul Martins Rodrigues  RA 04722-030\ProvaRaulMartinsRodrigues\ProvaRaulMartinsRodrigues\obj\Debug\net7.0-windows\ProvaRaulMartinsRodrigues.csproj.GenerateResource.cache
+C:\Users\rmrod\Desktop\Raul Martins Rodrigues  RA 04722-030\ProvaRaulMartinsRodrigues\ProvaRaulMartinsRodrigues\obj\Debug\net7.0-windows\ProvaRaulMartinsRodrigues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmrod\Desktop\Raul Martins Rodrigues  RA 04722-030\ProvaRaulMartinsRodrigues\ProvaRaulMartinsRodrigues\obj\Debug\net7.0-windows\ProvaRaulMartinsRodrigues.AssemblyInfoInputs.cache
+C:\Users\rmrod\Desktop\Raul Martins Rodrigues  RA 04722-030\ProvaRaulMartinsRodrigues\ProvaRaulMartinsRodrigues\obj\Debug\net7.0-windows\ProvaRaulMartinsRodrigues.AssemblyInfo.cs
+C:\Users\rmrod\Desktop\Raul Martins Rodrigues  RA 04722-030\ProvaRaulMartinsRodrigues\ProvaRaulMartinsRodrigues\obj\Debug\net7.0-windows\ProvaRaulMartinsRodrigues.csproj.CoreCompileInputs.cache
+C:\Users\rmrod\Desktop\Raul Martins Rodrigues  RA 04722-030\ProvaRaulMartinsRodrigues\ProvaRaulMartinsRodrigues\obj\Debug\net7.0-windows\ProvaRaulMartinsRodrigues.dll
+C:\Users\rmrod\Desktop\Raul Martins Rodrigues  RA 04722-030\ProvaRaulMartinsRodrigues\ProvaRaulMartinsRodrigues\obj\Debug\net7.0-windows\refint\ProvaRaulMartinsRodrigues.dll
+C:\Users\rmrod\Desktop\Raul Martins Rodrigues  RA 04722-030\ProvaRaulMartinsRodrigues\ProvaRaulMartinsRodrigues\obj\Debug\net7.0-windows\ProvaRaulMartinsRodrigues.pdb
+C:\Users\rmrod\Desktop\Raul Martins Rodrigues  RA 04722-030\ProvaRaulMartinsRodrigues\ProvaRaulMartinsRodrigues\obj\Debug\net7.0-windows\ProvaRaulMartinsRodrigues.genruntimeconfig.cache
+C:\Users\rmrod\Desktop\Raul Martins Rodrigues  RA 04722-030\ProvaRaulMartinsRodrigues\ProvaRaulMartinsRodrigues\obj\Debug\net7.0-windows\ref\ProvaRaulMartinsRodrigues.dll
